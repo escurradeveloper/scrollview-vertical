@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "arroz-con-pollo.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
